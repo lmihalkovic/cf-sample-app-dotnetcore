@@ -1,4 +1,4 @@
-# CF Sample App .NET Core
+# CF Sample App .NET Core 2.0
 
 A sample [ASP.NET Core](https://www.asp.net/core) application to deploy to Cloud Foundry which works out of the box.
 
